@@ -1,3 +1,14 @@
+image of web 
+
+![image](https://github.com/ehsan2105/pernetflix/assets/105609659/f2387a39-bd43-4edf-8968-65bc6914812e)
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
